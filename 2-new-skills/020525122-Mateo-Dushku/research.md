@@ -40,3 +40,61 @@ Critical thinking in the AI era means:
 - Understanding *why* a suggested solution works, not just that it compiles
 - Recognizing when AI output is plausible-looking but logically incorrect (hallucinations)
 - Knowing when *not* to use AI, such as in high-responsibility deployment decisions
+---
+
+## 3. System Design and Architecture
+
+While AI tools are effective at generating small, isolated pieces of code, they still struggle with understanding the full context of a complex software system. This makes **system design** — the ability to architect scalable, maintainable solutions — one of the most durable and valuable skills for engineers.
+
+According to Thoughtworks (2025), the future software developer will function more like a *steward of systems* — accountable for software reliability, performance, and value — rather than a line-by-line code writer. This requires understanding how components interact, how systems fail, and how to design for maintainability.
+
+Gartner (2024) emphasizes that in the AI-native era, engineers will primarily focus on steering AI agents toward relevant context and constraints. This requires a deep understanding of architecture: if an engineer cannot articulate the structure and constraints of their system, they cannot effectively guide AI tools to work within it.
+
+---
+
+## 4. AI Literacy
+
+Beyond prompt engineering, engineers need a broader **AI literacy** — a working understanding of how AI systems function, where they succeed, and where they fail.
+
+This includes:
+- Understanding the basics of machine learning, large language models (LLMs), and retrieval-augmented generation (RAG)
+- Knowing the difference between AI confidence and AI correctness
+- Recognizing failure modes such as hallucination, bias, and context limitations
+- Understanding privacy and security implications of sending code or data to AI systems
+
+Gartner's 2024 survey of 300 U.S. and U.K. organizations found that 56% of software engineering leaders rated AI/ML engineering as the most in-demand skill for 2024, and applying AI/ML to applications was identified as the biggest skills gap across the industry (Gartner, 2024).
+
+---
+
+## 5. Adaptability and Continuous Learning
+
+The pace of change in AI tooling is faster than any previous technology shift in software engineering. A skill or tool that is new today may be standard practice in six months.
+
+The 2025 Stack Overflow survey found that over 36% of developers learned to use AI-enabled tools for their jobs in the past year alone (Stack Overflow, 2025). This reflects a broader reality: engineers who thrive in the AI era are those who maintain a habit of continuous learning and are comfortable with ambiguity and rapid change.
+
+Adaptability is not just about learning new tools. It involves:
+- Willingness to update mental models and workflows
+- Comfort with experimentation and iterative improvement
+- Ability to evaluate new tools critically before adopting them
+- Building knowledge foundations strong enough to adapt new tools onto
+
+---
+
+## 6. Communication and Collaboration
+
+As AI handles more of the code writing, the distinctly human aspects of software engineering — collaboration, communication, and leadership — grow in relative importance.
+
+LinkedIn data cited in the IEEE Spectrum AI Jobs report (2025) found that professionals are increasingly emphasizing human skills such as ethical reasoning and leadership on their profiles, alongside technical skills. As AI lowers the barrier to generating code, the ability to define what to build, explain it to stakeholders, and collaborate with a team becomes a stronger differentiator.
+
+Effective communication in the AI era includes:
+- Translating business requirements into precise technical specifications (which then feed AI tools)
+- Explaining AI-assisted work to non-technical stakeholders
+- Contributing to team decisions about when and how to use AI responsibly
+
+---
+
+## Summary
+
+The skills that matter most in the AI era are not simply the ability to use AI tools — they are the distinctly human capabilities that allow engineers to use those tools responsibly, critically, and effectively. Prompt engineering, critical thinking, system design, AI literacy, adaptability, and communication are all growing in importance. Importantly, none of these replaces the need for solid programming fundamentals; rather, they build on top of them.
+
+Gartner's forecast may summarize the situation best: AI will not replace software engineers — but it may require 80% of the engineering workforce to upskill (Gartner, 2024).
